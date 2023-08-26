@@ -1,0 +1,31 @@
+.dax-screen-bg {
+    display: flex;
+    color: white;
+    font-family: 'Roboto';
+    margin: 0px;
+    background-image: url('https://theme.zdassets.com/theme_assets/10889426/e5bce9d5c0b53031ab8ef07eafc5684f214152b6.jpeg');
+    background-size: cover;
+}
+
+.dax-screen-main-conatiner {
+    overflow: hidden;
+    padding-left: 20px;
+    margin-left: 20px;
+}
+
+.dax-screen-search-container {
+    margin-top: 20px;
+    display: flex;
+}
+
+.dax-screen-search-input {
+    padding: 3px;
+    border-radius: 10px;
+    border-width: 0px;
+}
+
+.dax-screen-token-list {
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+}

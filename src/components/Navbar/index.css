@@ -1,0 +1,41 @@
+.dax-screen-navbar {
+    background-color: black;
+    padding: 20px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 98vh;
+    position: static;
+    margin-right: 30px;
+    padding-top: 10px;
+}
+
+.dax-screen-navbar-app-icon {
+    height: 30px;
+    width: 30px;
+    margin-right: 10px;
+}
+
+.dax-screen-navbar-icons-container {
+    display: flex;
+}
+
+.dax-screen-navbar-items-list {
+    list-style-type: none;
+}
+
+.dax-screen-navbar-item {
+    background-color: transparent;
+    color: white;
+    font-size: 16px;
+    margin: 10px;
+    border-width: 0px;
+}
+
+.daxscreen-navbar-head {
+    font-family: 'bree serif';
+    font-size: 20px;
+    margin-left: 6px;
+}

@@ -1,0 +1,13 @@
+.dax-screen-token-item-conatiner {
+    display: flex;
+}
+
+.dax-screen-token-item-head {
+    font-size: 24px;
+}
+
+.dax-screen-token-item {
+    background-color: black;
+    border-radius: 10px;
+    padding: 20px;
+}
